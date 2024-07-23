@@ -1,1 +1,1 @@
-print("papa nhi manenge kykki wo bahut jiddi hai bhai ")
+print("papa nhi manenge kykki wo bahut jiddi hai bhai  lovday")
